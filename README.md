@@ -1,7 +1,3 @@
-# MarkDownTestRepo
-this repository uses for markdown sytax testing
-
-******************************Lab2****************************************
 # Exercise 1: Introduction
 Hi, my name is **Keyun Fu**. I am a student of Seneca Polytechnic.
 
